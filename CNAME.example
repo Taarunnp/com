@@ -1,0 +1,18 @@
+# CNAME File Instructions
+# 
+# This file is used to set up a custom domain for GitHub Pages
+# 
+# TO USE:
+# 1. Rename this file from "CNAME.example" to "CNAME" (no extension)
+# 2. Replace the text below with your actual domain name
+# 3. Delete these comment lines (lines starting with #)
+# 4. Commit and push to GitHub
+# 
+# EXAMPLE:
+# www.stapleagency.com
+# OR
+# stapleagency.com
+#
+# Only include ONE domain name, nothing else
+
+www.yourdomain.com
